@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color1: #4180ab;
+    --colorWhite: #ffffff;
+    --color3: #8ab3cf;
+    --color4: #bdd1de;
+    --color5: #e4ebf0;
+}
+
+
+body {
+    font-size: 62.5%;
+}
+
+.header-contain {
+    display: flex;
+    justify-content: center;
+    height: 8rem;
+    background-color: var(--color1);
+    padding: 0.4rem;
+}
+
+.logo-contain img {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 4rem;
+}
