@@ -11,3 +11,7 @@ React, HTML, CSS e AXIOS.
 # API UTILIZADA
 
 https://rickandmortyapi.com/
+
+# Link deploy
+
+https://rick-and-morty-status.vercel.app/
